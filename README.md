@@ -16,4 +16,4 @@ Tan4 serves a critical role in fintech by providing an additional layer of secur
 To integrate Tan4 into your fintech solution using Google's Gemini, follow the provided API documentation. Setup instructions, code samples, and Google Cloud deployment guides are available to ensure a smooth integration process.
 
 ## License
-Tan4 is released under the MIT license. For more details, see the LICENSE file in the repository.
+Tan4 is released under the MIT license. For more details, see the [LICENSE] file in the repository.
