@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.wheels/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python environments
+.env
+.venv
+venv/
+ENV/
+env/
+pyvenv.cfg
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Operating system generated files
+.DS_Store
+Thumbs.db
+
+# Unit test / coverage reports
+.htmlcov/
+.coverage
+.pytest_cache/
+
+# Data files 
+*.csv
+*.xls
+*.xlsx
+*.json
+*.xml
+
+# Large data files and sensitive files
+data/*.zip
+data/*.tar.gz
+data/*.gz
+
+# Sensitive application files
+config.yaml
+config.ini
+secrets.yaml
+credentials.json
