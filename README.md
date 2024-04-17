@@ -1,6 +1,6 @@
 # Tan4: Advanced Deepfake Detection for Fintech Security
 
-Tan4 leverages Google's Gemini to tackle the growing threat of deepfake technology in the financial technology industry. Our platform provides robust tools to detect and prevent deepfake-related fraud, ensuring the security and integrity of processes such as account onboarding, account takeover, and user verification. By utilizing Gemini's powerful machine learning and data processing capabilities, Tan4 helps fintech companies combat fraudulent activities powered by synthetic audio and video.
+Tan4 leverages Google's Gemini to tackle the growing threat of deepfake technology in the financial technology industry. Tan4 provides robust tools to detect and prevent deepfake-related fraud, ensuring the security and integrity of processes such as account onboarding, account takeover, and user verification. By utilizing Gemini's powerful machine learning and data processing capabilities, Tan4 helps fintech companies combat fraudulent activities powered by synthetic audio and video.
 
 ## Features
 - **Deepfake Detection:** Harnesses Gemini's advanced machine learning algorithms and auto-scaling capabilities to identify audio and video manipulations efficiently.
